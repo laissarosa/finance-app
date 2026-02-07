@@ -20,6 +20,7 @@ O **Finance App** é uma aplicação desktop desenvolvida em **Python** para con
 - **Tkcalendar** → seleção de datas na interface.  
 
 ## 📂 Estrutura do projeto
+```
 finance_app/
 │
 ├── gui/
@@ -31,14 +32,22 @@ finance_app/
 │
 └── database/
     └── Finance.db              # Banco de dados SQLite
-
+```
 ## ⚙️ Como executar
 1. Clone o repositório:
+```
    git clone https://github.com/laissa-rosa/finance-app.git
-2. Instale as dependências:
-   pip install -r requirements.txt
-3. Execute a aplicação:
+   
+```
+
+3. Instale as dependências:
+  ```
+ pip install -r requirements.txt
+```
+4. Execute a aplicação:
+   ```
    python -m aplication.Connecting
+   ```
 
 # 💰 Finance App
 
@@ -62,6 +71,7 @@ finance_app/
 - **Tkcalendar** → date selection in the interface.  
 
 ## 📂 Project structure
+```
 finance_app/
 │
 ├── gui/
@@ -73,11 +83,17 @@ finance_app/
 │
 └── database/
     └── Finance.db              # SQLite database
-
+```
 ## ⚙️ How to run
 1. Clone the repository:
+   ```
    git clone https://github.com/laissa-rosa/finance-app.git
+   ```
 2. Install dependencies:
+ ```
    pip install -r requirements.txt
+```
 3. Run the application:
+   ```
    python -m aplication.Connecting
+   ```
