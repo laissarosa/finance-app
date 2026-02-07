@@ -36,18 +36,17 @@ finance_app/
 ## ⚙️ Como executar
 1. Clone o repositório:
 ```
-   git clone https://github.com/laissa-rosa/finance-app.git
+git clone https://github.com/laissa-rosa/finance-app.git
    
 ```
-
 3. Instale as dependências:
-  ```
- pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 4. Execute a aplicação:
-   ```
-   python -m aplication.Connecting
-   ```
+```
+python -m aplication.Connecting
+ ```
 
 # 💰 Finance App
 
@@ -86,14 +85,14 @@ finance_app/
 ```
 ## ⚙️ How to run
 1. Clone the repository:
-   ```
-   git clone https://github.com/laissa-rosa/finance-app.git
+```
+git clone https://github.com/laissa-rosa/finance-app.git
    ```
 2. Install dependencies:
  ```
-   pip install -r requirements.txt
+ pip install -r requirements.txt
 ```
 3. Run the application:
-   ```
-   python -m aplication.Connecting
+```
+ python -m aplication.Connecting
    ```
